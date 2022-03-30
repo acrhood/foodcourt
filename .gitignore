@@ -1,0 +1,5 @@
+_config/mysqlDB.php
+dashboard/.DS_Store
+dashboard/view/compiled/
+.well-known/
+assets/imgs/
